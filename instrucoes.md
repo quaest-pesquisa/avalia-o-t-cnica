@@ -28,4 +28,4 @@ Obs.: As duas atividades visam avaliar a capacidade de programação e analític
 Você tem liberdade para organizar as informações da forma que achar mais adequado, categorizar ou não as variáveis e utilizar quaisquer bibliotecas/linguagens de programação. 
 A base de dados que você vai utilizar pode ser encontrada nesse link: 
  
-Você pode hospedar seu teste técnico no Github Pages ou em qualquer outra plataforma que preferir. Você deverá nos enviar um link com seu Dashboard para avaliarmos até domingo (21/04, 23:59).
+Você pode hospedar seu teste técnico no Github Pages ou em qualquer outra plataforma que preferir. Você deverá nos enviar um link com sua atividade que contenha o código, a tabela e os gráficos, para avaliarmos até quarta-feira (21/04, 23:59).
