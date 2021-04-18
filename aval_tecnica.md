@@ -4,23 +4,23 @@ O objetivo deste teste é avaliar um pouco suas habilidades como cientista de da
 
 A atividade consiste em analisar um survey. Para isso, em anexo, o arquivo 'bd_surveyquaest.xlsx' consiste em uma base de dados resumida e fictícia, contendo as seguintes variáveis: 
 
-sbjnum: id do respondente
-sexo: sexo do respondente
-idade: idade (numérica) do respondente
-rendaf: renda familiar do respondente
-esc: escolaridade do respondente
-aval_gov: avaliação do governo
-voto1: intenção de voto do respondente.
+ - sbjnum: id do respondente
+ - sexo: sexo do respondente
+ - idade: idade (numérica) do respondente
+ - rendaf: renda familiar do respondente
+ - esc: escolaridade do respondente
+ - aval_gov: avaliação do governo
+ - voto1: intenção de voto do respondente.
 
 A partir da base de dados, você irá desenvolver duas atividades: 
 
-Crie uma função em alguma linguagem de programação, preferencialmente em R ou Python,  que automatize a construção de tabelas de contingência. O objetivo é identificar se há uma diferença sociodemográfica na intenção de voto. Em outras palavras, por ex.: As mulheres e os homens estão votando no mesmo candidato ? 
+ 1. Crie uma função em alguma linguagem de programação, preferencialmente em R ou Python,  que automatize a construção de tabelas de contingência. O objetivo é identificar se há uma diferença sociodemográfica na intenção de voto. Em outras palavras, por ex.: As mulheres e os homens estão votando no mesmo candidato ? 
 
-Ainda com essa base de dados, construa dois gráficos. 
+2. Ainda com essa base de dados, construa dois gráficos. 
 
-O primeiro gráfico será da variável intenção de voto.
+  2.1) O primeiro gráfico será da variável intenção de voto.
 
-Já o segundo, plot um gráfico que represente o cruzamento entre as variáveis intenção de voto e avaliação do governo. Quem avalia o governo de forma positiva, vota em qual candidato ? E quem avalia de forma negativa ?
+  2.2) Já o segundo, plot um gráfico que represente o cruzamento entre as variáveis intenção de voto e avaliação do governo. Quem avalia o governo de forma positiva, vota em qual candidato ? E quem avalia de forma negativa ?
 
 Obs.: As duas atividades visam avaliar a capacidade de programação e analítica. Portanto, se achar necessário, junto ao gráfico, pode enviar um texto de até 200 caracteres para explicar cada gráfico. Cabe ressaltar também que, na primeira atividade a estética não é tão relevante, diferentemente da segunda atividade.
 
