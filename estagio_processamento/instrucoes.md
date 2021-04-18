@@ -23,5 +23,4 @@ Você tem liberdade para organizar as informações da forma que achar mais adeq
 
 Caso você utilize alguma linguagem de programação, coloque em anexo o script utilizado para responder as perguntas. 
 
-Você pode hospedar seu teste técnico no Github ou qualquer outra plataforma que preferir. Também pode enviar para o e-mail: jonatas.varella@quaest.com.br.
-Você deverá nos enviar um link com sua atividade que contenha o código, a tabela e os gráficos, para avaliarmos até domingo (25/04, 23:59)
+Você pode hospedar seu teste técnico no Github ou qualquer outra plataforma que preferir. Também pode enviar para o e-mail: contato@quaest.com.br com o título de "avaliação do estágio de processamento". Você deverá nos enviar um link com sua atividade que contenha o código, a tabela e os gráficos, para avaliarmos até domingo (25/04, 23:59)
