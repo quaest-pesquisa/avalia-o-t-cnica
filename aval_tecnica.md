@@ -18,9 +18,10 @@ A partir da base de dados, você irá desenvolver duas atividades:
 
 2. Ainda com essa base de dados, construa dois gráficos. 
 
-  2.1) O primeiro gráfico será da variável intenção de voto.
+      2.1) O primeiro gráfico será da variável intenção de voto.
 
-  2.2) Já o segundo, plot um gráfico que represente o cruzamento entre as variáveis intenção de voto e avaliação do governo. Quem avalia o governo de forma positiva, vota em qual candidato ? E quem avalia de forma negativa ?
+      2.2) Já o segundo, plot um gráfico que represente o cruzamento entre as variáveis intenção de voto e avaliação do governo. Quem avalia o governo de forma
+           positiva, vota em qual candidato ? E quem avalia de forma negativa ?
 
 Obs.: As duas atividades visam avaliar a capacidade de programação e analítica. Portanto, se achar necessário, junto ao gráfico, pode enviar um texto de até 200 caracteres para explicar cada gráfico. Cabe ressaltar também que, na primeira atividade a estética não é tão relevante, diferentemente da segunda atividade.
 
