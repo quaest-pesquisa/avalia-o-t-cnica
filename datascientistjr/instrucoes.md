@@ -23,9 +23,8 @@ A partir da base de dados, você irá desenvolver duas atividades:
       2.2) Já o segundo, plot um gráfico que represente o cruzamento entre as variáveis intenção de voto e avaliação do governo. Quem avalia o governo de forma
            positiva, vota em qual candidato ? E quem avalia de forma negativa ?
 
-Obs.: As duas atividades visam avaliar a capacidade de programação e analítica. Portanto, se achar necessário, junto ao gráfico, pode enviar um texto de até 200 caracteres para explicar cada gráfico. Cabe ressaltar também que, na primeira atividade a estética não é tão relevante, diferentemente da segunda atividade.
+Obs.: As duas atividades visam avaliar a capacidade de programação e analítica. Portanto, se achar necessário, junto ao gráfico, pode enviar um texto para explicar cada gráfico. Cabe ressaltar também que, na primeira atividade a estética não é tão relevante, diferentemente da segunda atividade.
 
 Você tem liberdade para organizar as informações da forma que achar mais adequado, categorizar ou não as variáveis e utilizar quaisquer bibliotecas/linguagens de programação. 
-A base de dados que você vai utilizar pode ser encontrada nesse link: 
  
 Você pode hospedar seu teste técnico no Github ou qualquer outra plataforma que preferir. Você deverá nos enviar um link com sua atividade que contenha o código, a tabela e os gráficos, para avaliarmos até domingo (25/04, 23:59)
