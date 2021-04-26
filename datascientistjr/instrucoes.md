@@ -27,7 +27,7 @@ Obs.: As duas atividades visam avaliar a capacidade de programação e analític
 
 Você tem liberdade para organizar as informações da forma que achar mais adequado, categorizar ou não as variáveis e utilizar quaisquer bibliotecas/linguagens de programação. 
  
-Você pode hospedar seu teste técnico no Github ou qualquer outra plataforma que preferir. Você deverá nos enviar um link com sua atividade que contenha o código, a tabela e os gráficos, até domingo (02/05, 23:59)
+Você pode hospedar seu teste técnico no Github ou qualquer outra plataforma que preferir. Você deverá nos enviar um link com sua atividade que contenha o código, a tabela e os gráficos, até domingo (02/05, 23:59) para o email: contato@quaest.com.br e jonatas.varella@quaest.com.br
 
 Quaisquer dúvidas sobre o teste, pode encaminhar no e-mail: jonatas.varella@quaest.com.br
 
